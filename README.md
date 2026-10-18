@@ -1,6 +1,6 @@
 # Start here
 
-**Rob Probst, Software Test Engineer.** This repo explains how my test automation projects are built, and why.
+**Rob Probst, Software Test Engineer.** This repo explains how and why my test automation projects are built. It will go into which parts are distinctly my own, which parts were built by AI, and specifically how I use AI in my workflow to punch above my junior level.
 
 Code lives in the other repos, and the results live on the [live dashboard](https://yeshallbeasgods.github.io/). This is the part explains my reasoning and test philosophy out loud. If you only have a minute, then open the dashboard. If you want to know what I would do on your team, then read on.
 
